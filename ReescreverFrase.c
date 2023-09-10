@@ -22,7 +22,7 @@ int main(){
         }
     }
 
-    printf("INICIAIS: %s", frase);
+    printf("SO INICIAIS: %s", frase);
 
     return 0;
 }
